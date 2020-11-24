@@ -2,3 +2,4 @@ testset
 train
 characters_illustration.png
 sample_submission.csv
+label_encoder.pkl
